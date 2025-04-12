@@ -34,9 +34,6 @@
   <a href="https://www.instagram.com/laryssa.zly/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" alt="Instagram"/>
 </a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="30" alt="Discord"/>
-</a>
  
   <a href="mailto:laryssaferreirabox@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/8109/8109673.png" width="30" alt="Email"/>
